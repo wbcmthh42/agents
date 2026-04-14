@@ -1,28 +1,9 @@
-Flight Deals from JFK to LHR - June 2025:
+# Flight Details from Singapore to Nanning (April 2026)
 
-1. Airline: Virgin Atlantic
-   - Price: $497
-   - Non-stop
-   - In-flight amenities: meals, drinks, entertainment, WiFi
-
-2. Airline: JetBlue
-   - Price: $314
-   - Non-stop
-   - Booking available now
-
-3. Airline: Delta
-   - Price: $239
-   - Non-stop
-   - Additional services: earns airline miles
-
-4. Airline: SWISS
-   - Price: $402
-   - Non-stop
-   - Comfortable seating and great service
-
-5. Airline: United Airlines
-   - Price: $450
-   - Non-stop
-   - Great onboard experience
-
-Best Deal: JetBlue at $314 for a non-stop flight from JFK to LHR. 
+**Airline:** Scoot  
+**Departure:** Singapore Changi Airport (SIN)  
+**Arrival:** Nanning Wuxu International Airport (NNG)  
+**Date:** Wednesday, April 29, 2026  
+**Price:** SGD 128  
+**Flight Duration:** Approximately 4 hours  
+**Booking Link:** [Scoot Official Site](https://www.flyscoot.com)
